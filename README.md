@@ -28,13 +28,16 @@ Building IOT raspberry Pi Honeypot exploring the cybersecurity in IoT
 🌱 I’m currently learning:
 
 Advanced threat intelligence techniques & cyber threat hunting.
+
 Deep-diving into MITRE ATT&CK framework for enhanced detection.
+
 Fine-tuning incident response workflows using SOAR & automation.
 
 
 👯 I’m looking to collaborate on:
 
 SOC automation projects (SIEM fine-tuning, alert triage, and EDR use cases).
+
 Threat research & malware analysis to improve security awareness.
 
 
@@ -42,13 +45,16 @@ Threat research & malware analysis to improve security awareness.
 🤔 I’m looking for help with:
 
 Learning cloud security monitoring (Azure Sentinel, AWS GuardDuty).
+
 Exploring adversary emulation & red teaming techniques.
 
 
 💬 Ask me about:
 
 SOC Operations, SIEM, Threat Intelligence, & Digital Forensics.
+
 Security Compliance & Privacy Laws (GDPR, PIPEDA, NIST 800-39).
+
 Linux Hardening, Network Security, & Incident Response Best Practices.
 
 
