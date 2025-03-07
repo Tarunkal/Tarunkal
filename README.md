@@ -22,7 +22,7 @@
 
 🔭 I’m currently working on:
 
-Building IOT raspberry Pi Honeypot exploring the cybersecurity in IoT 
+ Active Directory Security & Privileged Access Management 
 
 
 🌱 I’m currently learning:
