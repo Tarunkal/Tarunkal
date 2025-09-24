@@ -22,16 +22,14 @@
 
 🔭 I’m currently working on:
 
- Active Directory Security & Privileged Access Management 
+n8n Automation for Cyberseurity 
 
 
 🌱 I’m currently learning:
 
 Advanced threat intelligence techniques & cyber threat hunting.
 
-Deep-diving into MITRE ATT&CK framework for enhanced detection.
-
-Fine-tuning incident response workflows using SOAR & automation.
+Fine-tuning incident response workflows using SOAR & n8n automation.
 
 
 👯 I’m looking to collaborate on:
