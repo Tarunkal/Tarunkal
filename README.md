@@ -1,128 +1,83 @@
-🔐 Don’t be so secure that you’re out of business
+🛡️ Don’t be so secure that you’re out of business
 
-# 🚀 Welcome to My Cyber Fortress! 🛡️
+# 🔐 Governance, Risk & Compliance in Action
 
+# Hi, I’m Tarun Kalyani
+I’m a Cybersecurity GRC & Data Governance professional focused on turning security requirements into structured, measurable controls that reduce real organizational risk.
 
-👋 Hey there, I’m Tarun Kalyani – a Cybersecurity & Threat Intelligence Enthusiast passionate about SOC operations, incident response, and digital forensics.
+My work sits at the intersection of security operations, identity governance, privacy compliance, and risk management — translating frameworks into practical implementation.
 
-🔍 What I Do:
+# 🎯 What I Specialize In
 
-🛠 Threat Hunting & Incident Response – Taming SIEM alerts, digging through logs, and neutralizing cyber threats.
+🛡️ IT Governance, Risk & Compliance (GRC)
+Building control frameworks, identifying gaps, and aligning security programs with business and regulatory requirements.
 
+🔑 Identity & Access Governance (IAM / IGA)
+Access reviews, RBAC design, MFA enforcement, JML processes, and control validation against NIST CSF.
 
-🕵️‍♂️ Security Operations (SOC) – Deep-diving into EDR, firewall, IDS/IPS logs to uncover threats.
+📊 Risk Assessments & Control Gap Analysis
+Evaluating current vs. desired control states, documenting risks, and providing remediation roadmaps.
 
+🔒 Privacy & Regulatory Compliance
+Applying PHIPA, PIPEDA, GDPR, PCI DSS, and NIST guidance to real-world systems and data flows.
 
-🔬 Malware Analysis & Digital Forensics – Dissecting malware samples and building YARA rules.
-
-
-🏗️ SIEM Engineering – Crafting custom detection rules to minimize false positives and enhance visibility.
-
-
-
-🔭 I’m currently working on:
-
-n8n Automation for Cyberseurity 
-
-
-🌱 I’m currently learning:
-
-Advanced threat intelligence techniques & cyber threat hunting.
-
-Fine-tuning incident response workflows using SOAR & n8n automation.
-
-
-👯 I’m looking to collaborate on:
-
-SOC automation projects (SIEM fine-tuning, alert triage, and EDR use cases).
-
-Threat research & malware analysis to improve security awareness.
+📁 Audit-Ready Documentation
+Risk registers, control matrices, evidence tracking, SOPs, and governance documentation.
 
 
 
-🤔 I’m looking for help with:
+# 🔭 Current Project: IT Control Gap Assessment — IAM & Security Controls
 
-Learning cloud security monitoring (Azure Sentinel, AWS GuardDuty).
+I’m currently performing a Control Gap Audit for a fictional e-commerce organization (ACME Online Store) using NIST CSF 2.0 (Identify & Protect functions).
 
-Exploring adversary emulation & red teaming techniques.
+## What this project involves:
+
+- Mapping critical assets (Customer Data, IAM System, Admin Portals, Cloud Infrastructure)
+- Assessing identity and access controls (RBAC, MFA, remote access, access reviews)
+- Defining Current State vs Desired State for each control
+- Identifying control deficiencies and governance gaps
+- Documenting risk impact and remediation recommendations
+- Assigning control owners and target dates
+
+📌 Outcome: A structured control matrix and risk register designed to support audit readiness and security maturity improvement.
 
 
-💬 Ask me about:
+# 🧠 How I Approach Security
 
-SOC Operations, SIEM, Threat Intelligence, & Digital Forensics.
+- Security gaps are often process failures, not tool failures.
+- Strong governance ensures controls work consistently, not occasionally.
+- Mature security programs measure risk reduction, not just control presence.
 
-Security Compliance & Privacy Laws (GDPR, PIPEDA, NIST 800-39).
-
-Linux Hardening, Network Security, & Incident Response Best Practices.
 
 
 ## Tools & Frameworks 
+- NIST CSF 2.0
+- CIS Controls (supporting reference)
+- Privacy frameworks (PIPEDA / GDPR)
+- Active Directory
+- Entra ID governance controls
+- Power BI
+- Excel-based Risk & Control Matrix
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Framework  
-<div>
-    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FFA500?style=for-the-badge&logo=mitre&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cyber%20Kill%20Chain-0078D4?style=for-the-badge&logo=cyber&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</div>
-
-## Threat Intelligence 
-<div>
-    <img src="https://img.shields.io/badge/-VirusTotal-4285F4?style=for-the-badge&logo=virustotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ANY.RUN-FF4500?style=for-the-badge&logo=anydesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hybrid%20Analysis-8A2BE2?style=for-the-badge&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdSec-4169E1?style=for-the-badge&logo=shield&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco%20Talos-008CFF?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
-## Firewall 
-<div>
-    <img src="https://img.shields.io/badge/-PfSense%20Firewall-0C3552?style=for-the-badge&logo=firewall&logoColor=white" />
-
-</div>
-
-
-## Privacy and Compliance Law
-<div>
-    <img src="https://img.shields.io/badge/-GDPR-0052CC?style=for-the-badge&logo=gdpr&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NIST-4B0082?style=for-the-badge&logo=gov&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HIPAA-008080?style=for-the-badge&logo=healthcare&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PHIPA-483D8B?style=for-the-badge&logo=privacy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PIPEDA-800000?style=for-the-badge&logo=law&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FIPPA-2F4F4F?style=for-the-badge&logo=gov&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Data%20Privacy-808080?style=for-the-badge&logo=shield&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GRC-228B22?style=for-the-badge&logo=balance-scale&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Privacy%20Act-2E8B57?style=for-the-badge&logo=gov&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PCI%20DSS-FF4500?style=for-the-badge&logo=credit-card&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCPA-DC143C?style=for-the-badge&logo=gov&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SANS%20Top%2020%20(CIS%20Controls)-4682B4?style=for-the-badge&logo=security&logoColor=white" />
-</div>
      
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
+# 🎯 What I’m Building Toward
 
+I’m developing hands-on expertise in:
+
+- IT Risk Assessment
+- Control Gap Analysis
+- IAM Governance Reviews
+- Privacy Impact Thinking
+- Audit-style security evaluation
+
+## My goal is to work in roles like:
+
+GRC Analyst | IT Risk Analyst | IAM Governance Analyst | Privacy & Compliance Analyst
 
 
 # 📫 How to reach me:
@@ -140,9 +95,11 @@ Linux Hardening, Network Security, & Incident Response Best Practices.
 
 
 
-# ⚡ Fun fact:
+# ⚡ Fun (but true) GRC Fact
 
-I can spot a phishing email faster than I can decide what to eat for lunch. 🍕😂
+Most security incidents don’t happen because tools failed.
 
-I once reduced alert fatigue by 30% in a SIEM just by fine-tuning correlation rules—because less noise = more real threats detected! 🚀
+They happen because:
+
+Nobody owned the control.
 
