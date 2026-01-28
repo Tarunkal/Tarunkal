@@ -1,6 +1,6 @@
 🛡️ Don’t be so secure that you’re out of business
 
-# 🔐 Governance, Risk & Compliance in Action
+# 🔐 Governance, Risk & Compliance (GRC) Portfolio
 
 # Hi, I’m Tarun Kalyani
 I’m a Cybersecurity GRC & Data Governance professional focused on turning security requirements into structured, measurable controls that reduce real organizational risk.
